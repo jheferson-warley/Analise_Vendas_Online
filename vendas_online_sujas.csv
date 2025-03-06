@@ -1,0 +1,1011 @@
+ID_Pedido,Nome_Cliente,Valor_Compra,Data_Pedido,Categoria_Produto
+P0001,Ana Costa,3974.76,2022-06-28,laptop
+P0002,João Silva,4385.25,2023-11-23,Smartphone
+P0003,Pedro Santos,1103.51,2022-02-14,Smartphone
+P0004,Maria Oliveira,3849.32,2024-02-06,Acessórios
+P0005,João Silva,4879.59,2022-09-30,Fone de Ouvido
+P0006,João Silva,4506.94,2023-08-21,Smartphone
+P0007,Pedro Santos,2570.47,2022-07-01,Smartphone
+P0008,Ana Costa,676.57,2024-01-25,Smartphone
+P0009,João Silva123,2065.9,2024-05-28,Fone de Ouvido
+P0010,Joao Silva123,412.92,2022-09-16,Fone de Ouvido
+P0011,Lucas Pereira,2544.85,02-11-22,Fone de Ouvido
+P0012,Pedro Santos,67.7,2022-04-03,Fone de Ouvido
+P0013,Pedro Santos,843431.9704813127,2025-02-09,Acessórios
+P0014,Lucas Pereira,,2024-08-09,Fone de Ouvido
+P0015,Ana Costa,2925.99,2023-03-30,Acessórios
+P0016,Lucas Pereira,4512.76,2024-10-07,laptop
+P0017,Ana Costa,4779.13,2022-02-14,televisão
+P0018,Lucas Pereira,1641.02,2023-01-23,Acessórios
+P0019,Joao Silva,3558.18,2024-06-05,Acessórios
+P0020,Lucas Pereira,2632.82,2024-11-26,laptop
+P0021,,,2023-04-28,Acessórios
+P0022,,1553.47,2025-01-13,Fone de Ouvido
+P0023,Pedro Santos,2045.46,2023-12-07,Acessórios
+P0024,João Silva,373.63,2022-10-26,laptop
+P0025,Lucas Pereira,4714.34,2024-03-28,Acessórios
+P0026,Lucas Pereira,2244.13,2024-08-29,Fone de Ouvido
+P0027,Lucas Pereira123,3595.33,2022-01-27,Acessórios
+P0028,Pedro Santos,1841.37,2024-08-25,Smartphone
+P0029,Lucas Pereira,4347.71,2023-06-25,Smartphone
+P0030,Lucas Pereira,4341.08,2022-10-06,televisão
+P0031,Joao Silva,1970.93,2023-08-04,Smartphone
+P0032,Pedro Santos,3387.92,29/01/2022,laptop
+P0033,Joao Silva,2197.48,2023-05-13,Acessórios
+P0034,Maria Oliveira,1674.73,2024-03-31,Smartphone
+P0035,Lucas Pereira,1107.43,2022-10-11,Fone de Ouvido
+P0036,Pedro Santos,1760.09,2024-12-12,Acessórios
+P0037,Ana Costa123,4636.06,2022-05-09,Acessórios
+P0038,Ana Costa,1349.23,2022-06-23,laptop
+P0039,Maria Oliveira,3249.38,2022-05-03,laptop
+P0040,Pedro Santos,556.81,2024-09-07,laptop
+P0041,Lucas Pereira123,2469.98,2023-10-26,Acessórios
+P0042,Pedro Santos,3798.48,2024-05-06,Smartphone
+P0043,João Silva,2771.92,2022-05-25,laptop
+P0044,João Silva,645.79,2023-03-06,Fone de Ouvido
+P0045,Lucas Pereira,R$ 689.85,2023-10-01,televisão
+P0046,Joao Silva,2229.21,2022-02-28,Acessórios
+P0047,Pedro Santos,1075.62,2023-09-23,Smartphone
+P0048,Pedro Santos,3868.61,2024-05-11,Acessórios
+P0049,Ana Costa,2482.31,2022-06-17,laptop
+P0050,Pedro Santos,1388.74,11/03/2023,Smartphone
+P0051,Ana Costa,2877.22,2022-08-03,televisão
+P0052,Lucas Pereira,759.16,2024-05-17,Acessórios
+P0053,Maria Oliveira,2784.66,2024-09-08,televisão
+P0054,Ana Costa,4396.89,2024-12-28,Smartphone
+P0055,João Silva,1700.59,2022-03-19,laptop
+P0056,Joao Silva,1318.92,2023-04-02,Fone de Ouvido
+P0057,Maria Oliveira,810.42,2023-07-26,Acessórios
+P0058,Pedro Santos,833.38,2023-08-06,televisão
+P0059,,3080.06,2022-11-30,Fone de Ouvido
+P0060,Lucas Pereira123,1932.68,27/04/2024,laptop
+P0061,Maria Oliveira,1418.61,2022-06-18,Acessórios
+P0062,Ana Costa,2815.0,2022-03-21,Fone de Ouvido
+P0063,João Silva,526.41,2022-11-06,televisão
+P0064,Lucas Pereira,3873.55,2024-01-24,Smartphone
+P0065,Maria Oliveira,843431.9704813127,2024-05-21,Smartphone
+P0066,Lucas Pereira,4539.44,2023-05-30,Smartphone
+P0067,Lucas Pereira,580.56,2023-12-31,televisão
+P0068,Ana Costa,220.59,2024-11-05,Smartphone
+P0069,Pedro Santos,2876.35,2022-06-21,Acessórios
+P0070,Joao Silva,607.27,2023-09-05,televisão
+P0071,Maria Oliveira,2561.03,18/02/2025,televisão
+P0072,,R$ 346.01,2024-07-26,televisão
+P0073,Ana Costa,2069.39,2022-09-11,Fone de Ouvido
+P0074,Ana Costa,1332.43,2023-05-14,Acessórios
+P0075,Lucas Pereira,524.94,2024-06-28,Fone de Ouvido
+P0076,Ana Costa,3199.14,2023-09-21,Acessórios
+P0077,João Silva,1472.96,16-01-24,televisão
+P0078,Maria Oliveira,4142.17,2025-01-26,laptop
+P0079,João Silva,4800.52,2022-10-05,Smartphone
+P0080,Ana Costa,3335.03,2023-12-07,televisão
+P0081,Pedro Santos,4648.66,2024-08-06,Smartphone
+P0082,Lucas Pereira,1589.89,2023-08-06,televisão
+P0083,Pedro Santos,3746.36,2023-07-07,Fone de Ouvido
+P0084,Ana Costa,1176.26,2023-08-13,Smartphone
+P0085,Pedro Santos,446.11,2024-10-25,televisão
+P0086,Joao Silva,831.65,2022-08-30,laptop
+P0087,João Silva,2559.84,01-05-23,laptop
+P0088,,1780.48,09-11-23,Smartphone
+P0089,Maria Oliveira,1793.23,29-08-23,Fone de Ouvido
+P0090,Maria Oliveira,3948.55,2024-06-04,televisão
+P0091,Maria Oliveira,R$ 221.98,2023-01-07,Fone de Ouvido
+P0092,Ana Costa,,2022-06-20,laptop
+P0093,João Silva,4700.29,2022-09-23,Fone de Ouvido
+P0094,Pedro Santos,3947.67,2022-08-10,Acessórios
+P0095,Maria Oliveira,3589.73,2023-08-20,Acessórios
+P0096,Lucas Pereira,1597.24,2023-06-07,Fone de Ouvido
+P0097,Maria Oliveira,3618.29,17/02/2023,televisão
+P0098,Lucas Pereira,966.57,2024-08-14,Acessórios
+P0099,João Silva,1349.56,2023-08-02,televisão
+P0100,,4354.31,2023-03-04,Fone de Ouvido
+P0101,João Silva,2750.28,2022-12-02,laptop
+P0102,Pedro Santos,1523.96,2022-09-10,Smartphone
+P0103,,3920.41,2022-09-12,Smartphone
+P0104,Maria Oliveira123,3592.03,2022-02-19,Smartphone
+P0105,Lucas Pereira,1526.63,2023-02-04,televisão
+P0106,João Silva,539.14,2024-01-10,Fone de Ouvido
+P0107,,2032.23,2022-02-02,Fone de Ouvido
+P0108,Maria Oliveira,2543.82,01-02-25,Fone de Ouvido
+P0109,Ana Costa,1646.94,2023-03-28,laptop
+P0110,Ana Costa,606.28,23-04-22,laptop
+P0111,Lucas Pereira,4474.96,2023-05-26,Smartphone
+P0112,Maria Oliveira,4074.6,2025-02-06,Smartphone
+P0113,Maria Oliveira,1720.47,2023-03-22,Smartphone
+P0114,Lucas Pereira,3473.58,20/01/2024,televisão
+P0115,Ana Costa,3057.69,2023-06-23,Fone de Ouvido
+P0116,Joao Silva,1114.64,2024-11-18,Smartphone
+P0117,Pedro Santos,1787.06,2023-04-26,Fone de Ouvido
+P0118,Maria Oliveira,4370.03,2024-12-19,Fone de Ouvido
+P0119,Maria Oliveira,4618.35,2024-12-02,Smartphone
+P0120,João Silva,4849.34,2024-12-24,Smartphone
+P0121,Pedro Santos,3743.23,2022-01-18,Acessórios
+P0122,,391.73,2022-03-28,Acessórios
+P0123,Maria Oliveira,4517.88,2022-05-07,Fone de Ouvido
+P0124,Pedro Santos,115.24,2022-10-17,laptop
+P0125,Lucas Pereira,3337.32,2022-02-14,laptop
+P0126,João Silva,2814.2,2022-03-16,Fone de Ouvido
+P0127,Lucas Pereira,3624.74,2024-02-05,Acessórios
+P0128,Maria Oliveira,1963.12,2022-04-01,Smartphone
+P0129,Ana Costa,824.22,2023-03-07,laptop
+P0130,Pedro Santos,781.14,2023-10-15,Smartphone
+P0131,,,2022-08-15,laptop
+P0132,Joao Silva,828.16,2022-03-19,Fone de Ouvido
+P0133,Lucas Pereira,R$ 3530.94,2025-01-12,Fone de Ouvido
+P0134,Joao Silva,2333.29,2024-01-27,Smartphone
+P0135,Lucas Pereira,4788.14,2022-01-28,Fone de Ouvido
+P0136,Pedro Santos,4757.93,2024-06-20,Acessórios
+P0137,Maria Oliveira,3491.7,13/07/2023,Acessórios
+P0138,Pedro Santos,444.5,2024-05-22,televisão
+P0139,João Silva,2508.55,2022-04-28,laptop
+P0140,Pedro Santos,2313.0,2024-06-12,laptop
+P0141,Ana Costa,4568.45,2025-02-05,Fone de Ouvido
+P0142,Pedro Santos,1099.67,26-07-23,laptop
+P0143,Ana Costa,3094.11,2023-04-29,Acessórios
+P0144,Maria Oliveira,519.36,2024-01-11,televisão
+P0145,Lucas Pereira,4546.83,2022-12-05,laptop
+P0146,João Silva,3706.06,2023-05-01,televisão
+P0147,Pedro Santos,2293.21,2023-07-19,Smartphone
+P0148,Lucas Pereira,1840.18,2022-08-20,Acessórios
+P0149,Pedro Santos,R$ 3386.44,2024-04-12,Acessórios
+P0150,Joao Silva,574.7,2024-07-04,Smartphone
+P0151,Lucas Pereira,124.1,2023-07-29,Smartphone
+P0152,João Silva,4476.76,2022-04-17,Fone de Ouvido
+P0153,Lucas Pereira,4946.47,2024-11-23,laptop
+P0154,João Silva,3332.2,2024-08-02,Smartphone
+P0155,Joao Silva,4959.76,2023-12-27,Acessórios
+P0156,Maria Oliveira123,1274.68,2023-09-30,Smartphone
+P0157,Pedro Santos,1563.59,2024-01-23,Smartphone
+P0158,Joao Silva123,363.69,2024-07-26,laptop
+P0159,Lucas Pereira,3603.17,04/07/2022,Acessórios
+P0160,Lucas Pereira,3719.41,2023-07-18,Smartphone
+P0161,,4550.59,2024-12-27,televisão
+P0162,Pedro Santos,3804.91,2023-05-26,laptop
+P0163,Maria Oliveira,3022.05,2024-10-12,laptop
+P0164,Pedro Santos,274.51,2022-11-13,Smartphone
+P0165,Lucas Pereira123,275.71,2022-09-15,televisão
+P0166,Lucas Pereira,1064.38,2022-02-18,televisão
+P0167,Pedro Santos,,2023-11-29,Fone de Ouvido
+P0168,Lucas Pereira,3868.71,2022-06-07,Fone de Ouvido
+P0169,Maria Oliveira,4642.55,02-03-22,Smartphone
+P0170,João Silva,4077.91,2024-03-17,Smartphone
+P0171,Pedro Santos123,595.05,2022-03-06,Fone de Ouvido
+P0172,Pedro Santos123,2727.82,2024-09-16,Fone de Ouvido
+P0173,Ana Costa,4879.65,2023-11-26,televisão
+P0174,Ana Costa,4459.61,2024-06-20,Acessórios
+P0175,Ana Costa,3053.72,2022-04-01,Smartphone
+P0176,Lucas Pereira,1497.9,2023-08-04,Acessórios
+P0177,Maria Oliveira,2679.2,2025-02-18,Smartphone
+P0178,Ana Costa,931.73,2022-03-07,laptop
+P0179,Lucas Pereira,101.65,2022-10-12,Acessórios
+P0180,Pedro Santos,4429.34,2024-06-20,laptop
+P0181,João Silva123,3601.15,2024-01-28,Fone de Ouvido
+P0182,Ana Costa,3897.19,2022-01-17,Acessórios
+P0183,João Silva,836.67,2025-02-20,Fone de Ouvido
+P0184,Maria Oliveira,114.8,2024-07-09,Smartphone
+P0185,Ana Costa,1849.58,2024-06-12,Fone de Ouvido
+P0186,Ana Costa,3080.03,2024-10-09,laptop
+P0187,João Silva,R$ 4195.28,2024-07-23,Acessórios
+P0188,Pedro Santos,1585.04,2023-01-12,televisão
+P0189,Maria Oliveira,770.33,2022-08-12,laptop
+P0190,,819.31,2022-02-24,Smartphone
+P0191,Lucas Pereira,1880.69,2024-08-06,televisão
+P0192,,3108.77,2022-02-10,Smartphone
+P0193,Lucas Pereira,3172.83,2023-05-09,Smartphone
+P0194,Lucas Pereira,427.57,2024-01-20,laptop
+P0195,Lucas Pereira,4478.09,2022-09-13,Smartphone
+P0196,Ana Costa,R$ 4169.19,2023-07-14,Acessórios
+P0197,Lucas Pereira123,4152.15,2023-09-18,televisão
+P0198,Pedro Santos,1908.65,2022-05-28,Smartphone
+P0199,Ana Costa,253.51,2024-10-04,laptop
+P0200,Pedro Santos,3246.83,2023-07-18,Smartphone
+P0201,Ana Costa,3862.38,2023-07-16,Smartphone
+P0202,Ana Costa,3069.73,2024-08-16,televisão
+P0203,João Silva,2549.67,2023-06-29,Acessórios
+P0204,Maria Oliveira,4175.14,2023-11-01,Smartphone
+P0205,Pedro Santos,3817.68,2022-11-17,Fone de Ouvido
+P0206,Pedro Santos,579.37,2023-01-06,televisão
+P0207,Maria Oliveira,1989.68,2023-05-15,laptop
+P0208,Maria Oliveira,2130.97,2024-06-29,Fone de Ouvido
+P0209,Pedro Santos,1501.45,2023-09-10,Acessórios
+P0210,Lucas Pereira,86.96,2022-01-23,Fone de Ouvido
+P0211,João Silva,3088.27,26-05-24,televisão
+P0212,Pedro Santos,4627.15,2022-08-08,Acessórios
+P0213,João Silva,843431.9704813127,2022-06-02,televisão
+P0214,João Silva,2368.12,2022-04-30,Fone de Ouvido
+P0215,,3199.82,2024-05-07,Acessórios
+P0216,Ana Costa,3288.41,2024-02-02,Fone de Ouvido
+P0217,Ana Costa,4693.78,2023-05-13,Acessórios
+P0218,Maria Oliveira,2987.13,2022-11-21,laptop
+P0219,Maria Oliveira,4082.78,04/01/2024,televisão
+P0220,Lucas Pereira,4683.69,2023-02-15,televisão
+P0221,Joao Silva,2554.23,2022-08-01,Fone de Ouvido
+P0222,Lucas Pereira,3647.98,2024-02-09,Fone de Ouvido
+P0223,João Silva,4365.11,2022-02-08,Fone de Ouvido
+P0224,Ana Costa,4412.59,2023-02-11,televisão
+P0225,João Silva,1468.92,2025-03-03,Fone de Ouvido
+P0226,Pedro Santos123,901.14,2023-08-05,laptop
+P0227,Pedro Santos,1010.97,2024-05-20,Smartphone
+P0228,João Silva,1863.18,2022-05-02,Fone de Ouvido
+P0229,Maria Oliveira,3501.15,2023-03-12,Fone de Ouvido
+P0230,Ana Costa,3781.77,2022-09-30,Fone de Ouvido
+P0231,Maria Oliveira,1571.87,2022-11-16,Acessórios
+P0232,Maria Oliveira,2652.59,20/12/2022,televisão
+P0233,Ana Costa,4001.82,2023-12-27,laptop
+P0234,Maria Oliveira,3078.03,2022-11-23,Smartphone
+P0235,Lucas Pereira,3649.66,2022-07-29,Acessórios
+P0236,João Silva,2206.98,2022-12-02,laptop
+P0237,Maria Oliveira,723.58,2023-08-10,laptop
+P0238,Joao Silva,4748.44,19-11-24,Smartphone
+P0239,Lucas Pereira,3614.64,2022-05-20,Fone de Ouvido
+P0240,Maria Oliveira,4526.15,2022-01-25,Smartphone
+P0241,Joao Silva,1562.18,2024-09-24,Smartphone
+P0242,Pedro Santos,-13.7633415248531,2023-08-18,laptop
+P0243,Lucas Pereira,3301.51,2024-10-28,televisão
+P0244,Lucas Pereira,,2024-11-27,Acessórios
+P0245,Ana Costa,2024.89,05/10/2024,laptop
+P0246,Pedro Santos,1307.2,2023-06-22,Fone de Ouvido
+P0247,Pedro Santos,4375.02,2023-12-17,Fone de Ouvido
+P0248,Pedro Santos,4776.6,2024-03-26,Smartphone
+P0249,Ana Costa,2731.08,2024-10-18,laptop
+P0250,Ana Costa,126.81,2024-04-23,Acessórios
+P0251,João Silva123,897.79,2023-11-10,Fone de Ouvido
+P0252,Ana Costa,2990.09,2023-05-09,Fone de Ouvido
+P0253,,3210.31,2023-08-03,Smartphone
+P0254,Ana Costa,4124.38,2023-11-19,laptop
+P0255,Pedro Santos,1093.95,2022-12-24,Acessórios
+P0256,Lucas Pereira,740.88,2022-08-25,Fone de Ouvido
+P0257,Pedro Santos123,2789.69,25-09-23,laptop
+P0258,Ana Costa,4202.77,2025-01-02,televisão
+P0259,Pedro Santos,1124.99,2024-11-28,Fone de Ouvido
+P0260,Ana Costa,3882.37,2025-02-24,laptop
+P0261,Pedro Santos,1010.55,2024-10-28,Smartphone
+P0262,Lucas Pereira,864.57,2022-01-26,laptop
+P0263,João Silva,2353.7,2023-09-24,laptop
+P0264,Maria Oliveira,1872.49,2023-09-16,Fone de Ouvido
+P0265,Maria Oliveira,1004.39,2023-03-01,Smartphone
+P0266,Pedro Santos,4286.57,2024-07-22,Smartphone
+P0267,Pedro Santos,4359.41,2022-12-17,laptop
+P0268,Maria Oliveira,4036.15,2024-07-07,Acessórios
+P0269,Lucas Pereira,4483.51,2022-08-09,Acessórios
+P0270,Maria Oliveira,2054.64,2022-06-04,laptop
+P0271,,3592.11,2023-04-14,Fone de Ouvido
+P0272,Ana Costa,2669.6,2024-02-27,Acessórios
+P0273,Lucas Pereira,2437.42,2024-12-13,Fone de Ouvido
+P0274,Ana Costa,,19-03-23,Fone de Ouvido
+P0275,João Silva,1275.14,2024-01-27,televisão
+P0276,Lucas Pereira123,1474.32,2023-06-11,Acessórios
+P0277,,4351.25,2024-09-15,Fone de Ouvido
+P0278,Lucas Pereira,4809.37,2024-05-23,Fone de Ouvido
+P0279,Pedro Santos,3966.32,2024-11-07,Fone de Ouvido
+P0280,João Silva,1154.21,2022-05-01,Smartphone
+P0281,Lucas Pereira,4225.26,2022-09-07,Acessórios
+P0282,Ana Costa,188.42,2023-01-01,laptop
+P0283,Pedro Santos,3957.8,2024-08-06,Smartphone
+P0284,Maria Oliveira,1919.06,2024-01-02,Smartphone
+P0285,João Silva,4085.78,2022-06-14,televisão
+P0286,Lucas Pereira,4796.93,2022-08-21,Fone de Ouvido
+P0287,Ana Costa,4255.85,2022-01-22,laptop
+P0288,Lucas Pereira,3127.51,2023-06-23,laptop
+P0289,Lucas Pereira,4626.38,2022-12-24,televisão
+P0290,Lucas Pereira123,4472.57,2024-05-11,laptop
+P0291,João Silva,361.94,2024-03-21,laptop
+P0292,Maria Oliveira,4024.37,2022-11-15,laptop
+P0293,Ana Costa,484.71,2025-01-13,Acessórios
+P0294,Ana Costa,1218.14,2022-03-10,Smartphone
+P0295,Maria Oliveira,896.9,11-05-24,televisão
+P0296,João Silva,1144.51,2023-08-23,Acessórios
+P0297,Lucas Pereira,4363.32,2025-01-07,Smartphone
+P0298,Maria Oliveira,2242.68,2022-08-07,Acessórios
+P0299,João Silva123,2265.03,2022-02-16,laptop
+P0300,Pedro Santos,2486.03,2024-12-21,Acessórios
+P0301,Lucas Pereira,1191.63,2024-09-24,Smartphone
+P0302,Maria Oliveira,575.04,2024-07-05,Fone de Ouvido
+P0303,Ana Costa,2494.29,2023-09-11,Acessórios
+P0304,Maria Oliveira,3306.39,2022-04-10,laptop
+P0305,João Silva,1893.31,2023-10-05,televisão
+P0306,Maria Oliveira,1172.17,2022-11-19,Smartphone
+P0307,Lucas Pereira,2106.04,2025-02-26,laptop
+P0308,Pedro Santos,2673.34,18/05/2024,Acessórios
+P0309,,4328.45,2023-08-06,laptop
+P0310,João Silva,3245.09,2024-02-27,Fone de Ouvido
+P0311,Maria Oliveira,4823.78,2024-07-13,Smartphone
+P0312,Ana Costa,2030.18,2023-11-05,Smartphone
+P0313,Pedro Santos,1332.83,20-02-23,laptop
+P0314,,1780.78,2023-01-15,laptop
+P0315,Lucas Pereira,694.44,2022-03-08,Acessórios
+P0316,Pedro Santos,,2023-02-04,televisão
+P0317,Lucas Pereira123,3048.82,2023-05-08,laptop
+P0318,Lucas Pereira,2758.54,2022-06-13,Fone de Ouvido
+P0319,Ana Costa,3137.56,14-06-24,laptop
+P0320,Maria Oliveira,4127.44,24/06/2024,Fone de Ouvido
+P0321,Pedro Santos,259.35,2022-12-13,Acessórios
+P0322,Maria Oliveira,451.68,09-07-24,televisão
+P0323,Lucas Pereira,3318.86,2023-01-18,Acessórios
+P0324,João Silva,R$ 3732.06,2024-03-14,laptop
+P0325,João Silva,3856.14,2022-11-14,Acessórios
+P0326,Maria Oliveira,1993.33,2023-11-22,Smartphone
+P0327,Lucas Pereira,344.62,2024-03-28,laptop
+P0328,João Silva,4991.61,05/11/2024,Fone de Ouvido
+P0329,Pedro Santos,571.77,2022-10-27,Smartphone
+P0330,João Silva,2590.29,2022-01-30,laptop
+P0331,,2688.72,2023-05-01,Fone de Ouvido
+P0332,João Silva,1752.24,2024-08-13,televisão
+P0333,João Silva,665.84,14/03/2023,televisão
+P0334,João Silva,4591.19,12-12-24,Acessórios
+P0335,Ana Costa,1883.13,2024-06-23,televisão
+P0336,Ana Costa123,1018.2,2024-04-30,televisão
+P0337,Ana Costa,4142.71,2024-11-01,Acessórios
+P0338,Pedro Santos,3405.43,2022-09-17,Fone de Ouvido
+P0339,Pedro Santos,4465.46,2022-10-11,laptop
+P0340,Ana Costa,,2024-12-13,Fone de Ouvido
+P0341,Ana Costa,113.38,2023-10-11,Fone de Ouvido
+P0342,Lucas Pereira,1108.97,2022-11-19,laptop
+P0343,Ana Costa,2593.03,2023-01-28,televisão
+P0344,,3433.63,2023-09-17,Fone de Ouvido
+P0345,Pedro Santos,3214.98,2023-04-25,televisão
+P0346,Ana Costa,,2022-04-14,televisão
+P0347,João Silva,794.43,2022-07-15,laptop
+P0348,Joao Silva,4945.19,2022-06-16,Smartphone
+P0349,João Silva,4341.39,2023-02-07,televisão
+P0350,Ana Costa,4840.28,2024-08-29,laptop
+P0351,Ana Costa123,1023.92,19-09-23,televisão
+P0352,João Silva,2956.97,2023-02-26,Fone de Ouvido
+P0353,Maria Oliveira,3914.65,2023-09-30,Fone de Ouvido
+P0354,João Silva,3602.54,2024-01-09,laptop
+P0355,Maria Oliveira,2133.34,2024-06-11,laptop
+P0356,Ana Costa123,4380.33,25/05/2023,Smartphone
+P0357,Lucas Pereira123,4466.94,2024-12-26,Fone de Ouvido
+P0358,Lucas Pereira,3023.6,2022-12-15,Smartphone
+P0359,Pedro Santos,3244.27,2023-08-03,Fone de Ouvido
+P0360,João Silva,3093.57,2023-12-07,Smartphone
+P0361,Maria Oliveira123,1019.44,2023-12-04,laptop
+P0362,Pedro Santos,1669.05,2023-07-04,televisão
+P0363,Maria Oliveira,747.79,17-09-24,Smartphone
+P0364,Lucas Pereira,331.27,2023-04-11,Smartphone
+P0365,Ana Costa,268.81,2023-12-15,televisão
+P0366,Lucas Pereira,1508.23,2023-12-27,televisão
+P0367,Ana Costa,,2024-04-13,Fone de Ouvido
+P0368,Lucas Pereira,3023.49,2023-10-18,Fone de Ouvido
+P0369,Maria Oliveira,1229.75,2024-03-27,laptop
+P0370,João Silva,2642.17,2023-04-29,Acessórios
+P0371,Lucas Pereira,4111.47,2024-02-28,televisão
+P0372,Ana Costa,3827.93,2023-04-29,Smartphone
+P0373,,4428.93,2022-10-31,Smartphone
+P0374,João Silva,2601.97,2023-04-08,Acessórios
+P0375,João Silva,4061.82,2025-01-04,Fone de Ouvido
+P0376,Lucas Pereira,2937.22,2022-05-20,Fone de Ouvido
+P0377,Pedro Santos,3418.96,2024-03-27,Acessórios
+P0378,Ana Costa,4820.75,02/05/2023,Fone de Ouvido
+P0379,Ana Costa,2289.52,2024-10-19,Smartphone
+P0380,Maria Oliveira,4293.27,2024-01-10,Smartphone
+P0381,Ana Costa,115.23,2023-06-09,Smartphone
+P0382,Joao Silva,1307.58,2022-08-24,Smartphone
+P0383,Maria Oliveira,4275.78,2024-07-24,Fone de Ouvido
+P0384,Maria Oliveira,1424.15,2024-03-28,Fone de Ouvido
+P0385,Maria Oliveira,686.74,2022-12-31,Acessórios
+P0386,,3142.01,2023-01-22,Acessórios
+P0387,Maria Oliveira,3826.47,2024-02-17,Fone de Ouvido
+P0388,Pedro Santos,,2024-12-18,Smartphone
+P0389,Lucas Pereira,765.63,2024-02-29,televisão
+P0390,Ana Costa,4116.74,2023-05-12,Fone de Ouvido
+P0391,Maria Oliveira,641.82,2022-05-27,laptop
+P0392,João Silva,1578.65,2022-04-17,Fone de Ouvido
+P0393,Pedro Santos,4593.75,2022-08-15,Acessórios
+P0394,João Silva,1617.39,2022-05-10,laptop
+P0395,Pedro Santos,3830.55,29-07-23,Acessórios
+P0396,Pedro Santos,2101.77,2024-10-21,laptop
+P0397,Lucas Pereira,1063.56,2022-05-03,Fone de Ouvido
+P0398,João Silva,3294.57,2024-03-22,Smartphone
+P0399,Ana Costa,4727.34,2024-01-26,Acessórios
+P0400,Pedro Santos123,4315.73,2023-09-25,Smartphone
+P0401,Ana Costa,815.33,2024-09-26,Acessórios
+P0402,João Silva,512.17,2025-02-21,Fone de Ouvido
+P0403,Joao Silva,1847.26,2024-07-12,Smartphone
+P0404,Maria Oliveira,2932.81,2024-05-30,Acessórios
+P0405,Maria Oliveira,231.12,2024-07-21,Acessórios
+P0406,Lucas Pereira,82.27,2022-11-04,Acessórios
+P0407,Maria Oliveira,4773.16,2023-01-06,Acessórios
+P0408,João Silva,4270.2,2022-11-23,Fone de Ouvido
+P0409,Lucas Pereira,3264.45,2022-11-11,televisão
+P0410,Maria Oliveira,2345.67,2022-10-01,Acessórios
+P0411,Ana Costa,863.06,2023-08-01,televisão
+P0412,Ana Costa,874.64,2022-03-02,Fone de Ouvido
+P0413,Ana Costa,2545.25,2023-04-15,Acessórios
+P0414,,3775.01,2023-08-09,Smartphone
+P0415,João Silva,1108.29,2023-09-09,Smartphone
+P0416,Lucas Pereira,3641.83,2024-12-23,Acessórios
+P0417,Pedro Santos123,1559.78,2024-10-22,laptop
+P0418,Pedro Santos,3443.53,2022-07-01,Smartphone
+P0419,Maria Oliveira,R$ 3588.89,2024-06-01,laptop
+P0420,João Silva,4407.8,2024-02-23,televisão
+P0421,Ana Costa,1659.26,2024-04-24,Fone de Ouvido
+P0422,Lucas Pereira,3558.3,2024-07-27,televisão
+P0423,Pedro Santos,843431.9704813127,2023-08-26,Smartphone
+P0424,Maria Oliveira,3270.68,2023-04-23,Smartphone
+P0425,Pedro Santos,4232.09,2023-07-20,Acessórios
+P0426,Pedro Santos,3840.53,2023-02-05,laptop
+P0427,Lucas Pereira,2030.43,2024-04-17,televisão
+P0428,Pedro Santos123,,16-09-24,Acessórios
+P0429,Ana Costa,2893.72,2024-09-26,Fone de Ouvido
+P0430,Lucas Pereira,1635.56,2023-03-13,Acessórios
+P0431,Lucas Pereira123,337.25,2023-03-12,televisão
+P0432,Maria Oliveira,4314.6,2024-07-02,televisão
+P0433,Lucas Pereira,4820.65,2025-01-18,laptop
+P0434,Lucas Pereira,1665.65,2022-10-12,Smartphone
+P0435,João Silva,2395.79,2024-01-06,Smartphone
+P0436,,3715.73,2023-05-27,Smartphone
+P0437,Lucas Pereira,3221.63,2023-11-10,Smartphone
+P0438,Lucas Pereira,580.78,2024-02-28,Acessórios
+P0439,Ana Costa,2986.56,2023-08-15,Smartphone
+P0440,João Silva,2578.49,2025-01-18,Smartphone
+P0441,Maria Oliveira,1210.0,09-02-23,televisão
+P0442,Pedro Santos,1236.05,2023-01-22,Acessórios
+P0443,Pedro Santos,468.4,2022-09-04,laptop
+P0444,Ana Costa,456.89,2023-10-25,televisão
+P0445,Ana Costa,4214.9,2022-08-23,laptop
+P0446,João Silva,2230.98,02-05-22,Smartphone
+P0447,Lucas Pereira,3811.73,2024-05-06,laptop
+P0448,Pedro Santos,4009.14,2024-08-23,televisão
+P0449,Ana Costa,1576.2,17-05-24,laptop
+P0450,Lucas Pereira,2158.71,2024-09-30,Smartphone
+P0451,Pedro Santos,3952.02,01-08-22,Acessórios
+P0452,Pedro Santos,205.71,2023-07-13,televisão
+P0453,Lucas Pereira,375.88,2022-05-04,Acessórios
+P0454,João Silva,1167.43,2022-03-04,Fone de Ouvido
+P0455,Lucas Pereira,,2024-03-23,televisão
+P0456,Ana Costa,1371.52,2023-12-06,Smartphone
+P0457,Lucas Pereira,3218.33,2023-09-25,Acessórios
+P0458,Maria Oliveira,1800.03,2024-09-26,Acessórios
+P0459,,402.12,11/06/2022,Acessórios
+P0460,,3434.78,2024-11-06,Smartphone
+P0461,Ana Costa,4668.85,2024-03-17,televisão
+P0462,João Silva,2343.4,2024-06-04,televisão
+P0463,Ana Costa,3494.88,2024-04-30,laptop
+P0464,Pedro Santos,3270.85,2022-11-17,Fone de Ouvido
+P0465,Maria Oliveira,1065.03,2022-02-26,Acessórios
+P0466,Maria Oliveira,4740.03,29-01-22,Smartphone
+P0467,,3031.32,2024-07-01,laptop
+P0468,João Silva,441.04,2022-09-23,Smartphone
+P0469,Pedro Santos,4280.6,2024-09-19,Fone de Ouvido
+P0470,Lucas Pereira,4137.54,2024-01-21,laptop
+P0471,João Silva,4716.4,2024-07-07,Fone de Ouvido
+P0472,João Silva,3076.26,2022-12-20,Fone de Ouvido
+P0473,Pedro Santos,4377.47,2022-03-24,laptop
+P0474,Joao Silva123,899.29,2024-11-19,laptop
+P0475,,4409.64,2023-08-02,Acessórios
+P0476,,1938.83,2024-11-16,televisão
+P0477,Maria Oliveira,1916.37,2022-10-25,Fone de Ouvido
+P0478,Ana Costa,2051.52,2023-02-13,Acessórios
+P0479,Ana Costa,4109.82,2024-08-15,Smartphone
+P0480,Pedro Santos123,1194.81,2022-04-09,Fone de Ouvido
+P0481,João Silva,4425.51,2023-01-11,Smartphone
+P0482,Maria Oliveira,3670.55,2022-03-17,laptop
+P0483,Maria Oliveira,3084.95,25/10/2023,Smartphone
+P0484,Pedro Santos,3799.53,2022-08-22,laptop
+P0485,Ana Costa,,2022-06-18,Acessórios
+P0486,Lucas Pereira,3461.58,2025-01-15,Fone de Ouvido
+P0487,Ana Costa,2484.62,2022-09-10,laptop
+P0488,João Silva,572.09,2025-01-29,laptop
+P0489,Maria Oliveira,4380.05,2024-08-23,Smartphone
+P0490,Pedro Santos,175.82,2023-08-30,Fone de Ouvido
+P0491,Pedro Santos,1799.32,2024-05-16,Fone de Ouvido
+P0492,,1228.13,16-12-24,Acessórios
+P0493,Joao Silva,-13.7633415248531,2024-05-24,Acessórios
+P0494,Lucas Pereira,3308.11,2022-04-16,Smartphone
+P0495,Lucas Pereira,310.12,18/02/2025,laptop
+P0496,Maria Oliveira,273.46,19-04-22,Fone de Ouvido
+P0497,Maria Oliveira,945.83,2024-10-06,laptop
+P0498,João Silva,854.09,01/04/2023,televisão
+P0499,Pedro Santos,3978.26,2023-08-11,Acessórios
+P0500,Pedro Santos123,1899.76,2023-09-29,laptop
+P0501,Ana Costa,3985.62,2022-08-08,Smartphone
+P0502,Pedro Santos,337.68,2024-09-26,televisão
+P0503,Joao Silva,4519.45,2024-02-08,televisão
+P0504,Joao Silva,2975.0,2024-11-16,laptop
+P0505,João Silva,,2022-01-27,televisão
+P0506,Ana Costa,4918.19,2024-02-17,Acessórios
+P0507,João Silva123,1157.82,2022-11-12,Fone de Ouvido
+P0508,Pedro Santos,2189.17,01/08/2023,laptop
+P0509,Pedro Santos,4952.5,2024-10-18,Fone de Ouvido
+P0510,Ana Costa,2340.29,2022-01-14,Acessórios
+P0511,,1377.95,2022-04-20,Fone de Ouvido
+P0512,Maria Oliveira,4053.04,2023-02-23,Fone de Ouvido
+P0513,Maria Oliveira,389.82,2022-04-22,Fone de Ouvido
+P0514,Ana Costa,3741.49,2024-09-07,Smartphone
+P0515,Ana Costa,R$ 4604.03,2024-07-14,Fone de Ouvido
+P0516,Pedro Santos,2623.63,2024-01-31,televisão
+P0517,João Silva,4024.52,2023-10-23,Smartphone
+P0518,Pedro Santos,2174.97,2023-12-13,televisão
+P0519,Lucas Pereira,498.38,2022-07-20,Fone de Ouvido
+P0520,João Silva,945.04,2023-02-07,laptop
+P0521,Lucas Pereira,2059.42,2024-06-22,Smartphone
+P0522,Maria Oliveira,4218.34,2024-03-29,Fone de Ouvido
+P0523,Maria Oliveira,472.89,01-09-24,Acessórios
+P0524,Pedro Santos,4224.41,2023-08-08,televisão
+P0525,Lucas Pereira,565.67,2022-02-22,Fone de Ouvido
+P0526,Ana Costa,3281.83,04/11/2024,laptop
+P0527,Maria Oliveira,70.6,27-03-24,Smartphone
+P0528,João Silva,1483.83,2022-04-08,Fone de Ouvido
+P0529,Joao Silva,3300.32,2022-01-28,Fone de Ouvido
+P0530,Lucas Pereira,2109.62,2023-08-08,televisão
+P0531,Pedro Santos,4565.03,2024-05-29,Fone de Ouvido
+P0532,Lucas Pereira123,705.07,05/12/2024,televisão
+P0533,João Silva,1425.13,2022-03-26,televisão
+P0534,Ana Costa,R$ 2258.84,17/11/2023,Fone de Ouvido
+P0535,Lucas Pereira,1129.63,2024-04-14,Smartphone
+P0536,Pedro Santos,1046.89,2023-10-15,Smartphone
+P0537,Ana Costa,3491.89,2023-08-23,televisão
+P0538,Maria Oliveira,3096.82,2024-10-18,Acessórios
+P0539,Ana Costa,1911.16,19/02/2022,televisão
+P0540,Maria Oliveira,2345.99,2024-11-27,televisão
+P0541,Pedro Santos,4403.35,2025-01-15,Smartphone
+P0542,Lucas Pereira,3245.79,30/07/2022,Fone de Ouvido
+P0543,Pedro Santos,1718.69,2024-03-05,televisão
+P0544,Ana Costa,836.0,2024-02-10,Smartphone
+P0545,Ana Costa,4161.03,2024-12-21,Acessórios
+P0546,Ana Costa,703.66,2022-04-23,Acessórios
+P0547,Lucas Pereira,99.09,2023-01-24,televisão
+P0548,Ana Costa,3809.03,26-12-23,Acessórios
+P0549,Maria Oliveira,4187.42,2024-01-12,televisão
+P0550,Pedro Santos123,2787.9,2022-10-06,laptop
+P0551,Maria Oliveira,884.56,2022-10-25,televisão
+P0552,João Silva123,3283.63,2023-10-21,laptop
+P0553,Maria Oliveira,1800.76,2023-01-04,Smartphone
+P0554,Pedro Santos,769.18,2022-11-17,Smartphone
+P0555,Ana Costa,137.11,29-08-23,Smartphone
+P0556,Pedro Santos,1592.77,2024-04-04,Fone de Ouvido
+P0557,Lucas Pereira,430.94,2022-12-03,Fone de Ouvido
+P0558,Ana Costa,4505.89,2023-01-28,Acessórios
+P0559,Pedro Santos,4329.6,2023-03-21,laptop
+P0560,Pedro Santos,2828.98,2023-08-31,Acessórios
+P0561,,2968.84,2022-08-27,laptop
+P0562,Ana Costa,3490.03,2024-01-01,laptop
+P0563,Pedro Santos,,2022-09-14,Acessórios
+P0564,Ana Costa,3299.73,2022-07-31,Smartphone
+P0565,Ana Costa,,2022-10-21,televisão
+P0566,João Silva,4960.05,2023-10-12,Smartphone
+P0567,Joao Silva,,2024-06-30,laptop
+P0568,Ana Costa123,626.92,2023-10-23,Fone de Ouvido
+P0569,Lucas Pereira,1834.76,2024-06-22,televisão
+P0570,Lucas Pereira,4843.38,2023-06-27,laptop
+P0571,Maria Oliveira,1966.02,2023-11-24,televisão
+P0572,João Silva,1597.31,2023-12-26,Acessórios
+P0573,Ana Costa,4307.59,04-07-24,Fone de Ouvido
+P0574,Pedro Santos,871.34,2024-01-21,laptop
+P0575,Ana Costa,3068.75,2022-02-06,Fone de Ouvido
+P0576,Pedro Santos,292.78,2024-07-09,Acessórios
+P0577,Maria Oliveira,2803.41,2024-09-19,Acessórios
+P0578,Pedro Santos123,3143.18,2022-10-10,Fone de Ouvido
+P0579,Maria Oliveira,1681.45,2024-02-10,Acessórios
+P0580,Maria Oliveira,1806.83,2022-12-02,laptop
+P0581,Lucas Pereira,2471.89,2023-12-25,televisão
+P0582,Lucas Pereira123,873.32,2024-11-13,laptop
+P0583,João Silva,114.37,2024-02-24,laptop
+P0584,Ana Costa,236.88,2022-02-18,laptop
+P0585,Pedro Santos123,4992.98,2023-03-22,Acessórios
+P0586,Pedro Santos,2562.68,2024-11-03,televisão
+P0587,Maria Oliveira,3441.33,2024-07-21,televisão
+P0588,Pedro Santos123,3716.77,20/01/2022,Smartphone
+P0589,Maria Oliveira,90.81,28/02/2025,laptop
+P0590,Lucas Pereira,4053.22,2022-03-02,laptop
+P0591,Lucas Pereira,2313.58,2022-03-06,Smartphone
+P0592,Maria Oliveira,4485.5,2022-10-19,Fone de Ouvido
+P0593,Lucas Pereira,4187.98,2023-10-29,laptop
+P0594,Pedro Santos,2521.37,2023-11-06,Acessórios
+P0595,Ana Costa123,1953.66,2022-10-31,Smartphone
+P0596,Pedro Santos123,3506.35,2022-02-02,televisão
+P0597,Ana Costa,4523.78,2023-06-25,Acessórios
+P0598,João Silva,1331.65,2023-09-26,televisão
+P0599,Ana Costa,2203.89,2022-03-22,Smartphone
+P0600,Lucas Pereira123,3678.1,2023-02-13,laptop
+P0601,Lucas Pereira,,30-04-23,Acessórios
+P0602,Pedro Santos,995.9,2022-04-20,televisão
+P0603,Pedro Santos123,466.4,2022-04-13,laptop
+P0604,Pedro Santos,4575.56,2024-07-27,televisão
+P0605,Lucas Pereira,3530.49,2022-11-13,televisão
+P0606,João Silva,1597.09,11-02-25,laptop
+P0607,Lucas Pereira,4722.74,2022-03-02,televisão
+P0608,João Silva,1333.19,2023-09-21,laptop
+P0609,Maria Oliveira,1852.17,2024-06-06,Fone de Ouvido
+P0610,Maria Oliveira,1413.96,2022-08-02,Fone de Ouvido
+P0611,João Silva,1662.77,2023-05-04,televisão
+P0612,João Silva,3509.94,2024-06-15,Smartphone
+P0613,Maria Oliveira,3988.1,2023-02-05,Fone de Ouvido
+P0614,Pedro Santos,4043.57,2022-04-15,Smartphone
+P0615,,4140.43,2023-09-24,Fone de Ouvido
+P0616,João Silva,446.83,2024-01-23,laptop
+P0617,Lucas Pereira123,365.57,2024-07-15,Smartphone
+P0618,Maria Oliveira,864.49,16-11-22,laptop
+P0619,Ana Costa,2280.17,2023-01-12,laptop
+P0620,Ana Costa,4724.9,2023-10-10,televisão
+P0621,João Silva,3693.38,2022-02-12,Fone de Ouvido
+P0622,Pedro Santos,2830.42,2024-06-21,Acessórios
+P0623,Lucas Pereira,2071.99,2024-09-19,Fone de Ouvido
+P0624,Joao Silva,4281.24,2022-08-23,Fone de Ouvido
+P0625,Ana Costa,811.08,2023-11-30,Smartphone
+P0626,Joao Silva,4676.74,2022-08-21,Smartphone
+P0627,Maria Oliveira,4956.07,2023-07-17,Fone de Ouvido
+P0628,Lucas Pereira,1925.67,2022-01-19,laptop
+P0629,Ana Costa,4526.01,20-10-23,laptop
+P0630,Lucas Pereira,232.78,2023-03-17,Fone de Ouvido
+P0631,Lucas Pereira,374.4,2022-03-25,laptop
+P0632,Ana Costa,2771.93,2024-11-27,televisão
+P0633,Maria Oliveira,649.36,2022-12-07,laptop
+P0634,Lucas Pereira,3350.96,2022-03-29,Smartphone
+P0635,Pedro Santos,1062.5,23-03-23,Fone de Ouvido
+P0636,Ana Costa,779.83,2024-12-14,Acessórios
+P0637,Lucas Pereira123,4137.79,2024-06-09,televisão
+P0638,Lucas Pereira,1096.26,2022-08-30,laptop
+P0639,Pedro Santos,3384.73,2024-07-16,laptop
+P0640,Ana Costa123,4996.3,2023-07-01,televisão
+P0641,Ana Costa,1857.32,2023-05-12,laptop
+P0642,João Silva,1438.42,2024-12-06,televisão
+P0643,Maria Oliveira,2836.23,2024-08-31,Acessórios
+P0644,Lucas Pereira,2893.51,2023-10-23,Smartphone
+P0645,Ana Costa,430.79,2022-11-07,televisão
+P0646,Joao Silva,4829.72,2024-11-06,laptop
+P0647,Lucas Pereira,,2023-09-05,Acessórios
+P0648,Lucas Pereira,4977.65,2024-09-07,Acessórios
+P0649,Lucas Pereira,4375.68,2022-07-26,laptop
+P0650,Pedro Santos,64.17,03/01/2024,laptop
+P0651,Ana Costa,1929.6,2023-05-17,Fone de Ouvido
+P0652,Ana Costa,2932.49,2024-12-04,Fone de Ouvido
+P0653,Maria Oliveira,4030.54,2022-03-27,Acessórios
+P0654,Ana Costa,3318.01,2022-01-01,Smartphone
+P0655,Maria Oliveira,4461.89,2023-06-19,Fone de Ouvido
+P0656,Ana Costa123,832.33,2022-12-23,Smartphone
+P0657,Lucas Pereira,1840.88,02/02/2024,laptop
+P0658,Lucas Pereira,304.45,2024-07-23,Smartphone
+P0659,Ana Costa,1061.92,2022-10-18,Acessórios
+P0660,Lucas Pereira,3536.26,2022-06-08,Acessórios
+P0661,Pedro Santos,1696.8,2022-05-13,Smartphone
+P0662,,704.04,2023-09-11,Fone de Ouvido
+P0663,Pedro Santos123,4220.07,2022-11-19,televisão
+P0664,,940.02,2022-08-11,televisão
+P0665,Pedro Santos,4176.32,2023-06-10,Acessórios
+P0666,Lucas Pereira123,755.68,2023-06-08,Fone de Ouvido
+P0667,Maria Oliveira,4636.86,2024-05-05,laptop
+P0668,Pedro Santos,162.86,2024-12-13,Smartphone
+P0669,Pedro Santos,3305.99,2023-05-07,laptop
+P0670,Pedro Santos,1239.98,2024-03-08,televisão
+P0671,João Silva,941.47,2023-06-13,televisão
+P0672,Lucas Pereira,3878.15,2024-06-25,Fone de Ouvido
+P0673,Lucas Pereira,2239.97,2023-12-02,televisão
+P0674,João Silva,4866.07,2022-09-01,Smartphone
+P0675,João Silva,797.39,2022-05-31,Acessórios
+P0676,Lucas Pereira,3134.59,2024-04-27,laptop
+P0677,Ana Costa,R$ 4904.87,2022-07-02,laptop
+P0678,João Silva,3912.0,2023-12-31,Fone de Ouvido
+P0679,Pedro Santos,2248.56,12-08-24,laptop
+P0680,Joao Silva,3362.95,2023-05-21,Smartphone
+P0681,Lucas Pereira,4811.5,2025-01-27,televisão
+P0682,,4850.38,2024-10-30,Fone de Ouvido
+P0683,Ana Costa,768.98,2025-01-22,laptop
+P0684,Lucas Pereira,2447.84,2022-07-17,Fone de Ouvido
+P0685,João Silva,4379.16,2022-06-25,laptop
+P0686,Ana Costa,4704.35,2023-03-20,Smartphone
+P0687,,513.81,2022-07-13,Smartphone
+P0688,João Silva,321.61,2024-07-12,Fone de Ouvido
+P0689,Ana Costa,3444.92,2023-10-21,Acessórios
+P0690,João Silva,1041.24,23/08/2022,televisão
+P0691,Ana Costa,2216.84,2024-10-10,Smartphone
+P0692,João Silva,2278.22,2024-01-21,laptop
+P0693,Lucas Pereira123,4609.72,2022-06-05,laptop
+P0694,Pedro Santos,2443.47,2023-04-18,televisão
+P0695,Maria Oliveira,815.11,2022-11-05,Acessórios
+P0696,Ana Costa123,4760.73,2023-09-19,Smartphone
+P0697,Joao Silva,3787.22,13/02/2023,televisão
+P0698,Maria Oliveira,3105.99,2022-10-10,Smartphone
+P0699,Pedro Santos,998.56,2025-02-21,televisão
+P0700,,4002.81,2022-09-10,Acessórios
+P0701,,1114.79,2025-02-25,televisão
+P0702,Maria Oliveira,225.82,2024-01-17,Fone de Ouvido
+P0703,Pedro Santos,2275.73,2024-09-13,Acessórios
+P0704,Lucas Pereira,219.89,28-01-24,televisão
+P0705,Maria Oliveira,2235.18,2024-11-15,Acessórios
+P0706,Maria Oliveira,3960.17,2024-04-12,laptop
+P0707,Ana Costa,2738.57,05/02/2024,Smartphone
+P0708,Ana Costa,4715.35,2022-07-30,Acessórios
+P0709,Pedro Santos,1016.19,13/09/2022,Fone de Ouvido
+P0710,João Silva,1868.87,2025-02-28,televisão
+P0711,Pedro Santos,2364.12,2022-05-11,televisão
+P0712,Ana Costa,1145.09,2024-05-31,televisão
+P0713,Maria Oliveira,483.61,2024-09-06,televisão
+P0714,Lucas Pereira,243.55,2022-02-18,Acessórios
+P0715,Pedro Santos,1662.06,2024-03-12,Smartphone
+P0716,Pedro Santos,1011.42,2023-01-22,televisão
+P0717,Maria Oliveira123,4997.11,2024-04-24,Smartphone
+P0718,Pedro Santos123,2928.62,01/06/2022,Acessórios
+P0719,Ana Costa,2373.74,2023-12-29,Smartphone
+P0720,Pedro Santos,4368.24,2022-10-16,laptop
+P0721,João Silva,2650.75,2022-11-06,laptop
+P0722,Lucas Pereira,1706.79,2025-01-17,Smartphone
+P0723,Ana Costa,1164.74,2023-01-19,Acessórios
+P0724,Pedro Santos,4296.41,2023-06-19,televisão
+P0725,Pedro Santos,3972.16,2023-08-25,laptop
+P0726,Maria Oliveira,2805.84,2024-07-28,televisão
+P0727,Pedro Santos,2091.25,2023-02-17,laptop
+P0728,Lucas Pereira,2210.99,2024-06-22,televisão
+P0729,Lucas Pereira,516.6,2022-11-05,Fone de Ouvido
+P0730,Ana Costa,2796.75,2022-05-06,Fone de Ouvido
+P0731,Lucas Pereira,1957.43,2022-11-17,laptop
+P0732,Ana Costa,314.69,2022-02-26,televisão
+P0733,Lucas Pereira,2055.11,2023-07-07,Smartphone
+P0734,Ana Costa,R$ 475.84,2024-03-30,Smartphone
+P0735,Maria Oliveira123,1323.44,2024-07-15,Smartphone
+P0736,Ana Costa,1865.81,2023-11-27,Smartphone
+P0737,Pedro Santos,3741.96,14-03-23,laptop
+P0738,João Silva,2785.49,2023-05-20,televisão
+P0739,Ana Costa,2351.61,2023-07-02,Fone de Ouvido
+P0740,Ana Costa,1573.14,2024-12-20,Acessórios
+P0741,Pedro Santos,882.61,2023-04-06,Fone de Ouvido
+P0742,Lucas Pereira,1713.86,2024-11-24,televisão
+P0743,Maria Oliveira,4337.51,2022-02-12,laptop
+P0744,Ana Costa,1421.19,2023-01-28,Smartphone
+P0745,Lucas Pereira,4496.47,2023-06-25,Acessórios
+P0746,Lucas Pereira,4027.35,2024-10-17,Fone de Ouvido
+P0747,Lucas Pereira,2014.17,2023-02-13,Acessórios
+P0748,,709.15,08/11/2024,laptop
+P0749,Lucas Pereira123,736.12,2023-01-06,Smartphone
+P0750,Pedro Santos,186.27,2024-10-21,televisão
+P0751,João Silva,2209.34,2024-05-03,televisão
+P0752,Maria Oliveira,2870.91,2024-04-18,Acessórios
+P0753,Lucas Pereira123,1900.09,2022-12-13,Fone de Ouvido
+P0754,Lucas Pereira,297.15,2022-08-01,laptop
+P0755,Ana Costa,3168.39,2024-03-24,Smartphone
+P0756,Ana Costa,805.31,2023-07-03,Smartphone
+P0757,Ana Costa,1735.74,2022-09-11,Smartphone
+P0758,Maria Oliveira,463.91,2022-03-22,televisão
+P0759,Maria Oliveira,793.78,2023-11-17,laptop
+P0760,Maria Oliveira,3305.12,2024-07-17,Fone de Ouvido
+P0761,Lucas Pereira,282.38,2023-09-02,Acessórios
+P0762,Joao Silva,2423.2,2024-06-09,televisão
+P0763,João Silva,212.3,2024-02-08,Smartphone
+P0764,Ana Costa,R$ 2492.05,2022-04-04,laptop
+P0765,Maria Oliveira,4470.29,2024-12-16,laptop
+P0766,Joao Silva123,R$ 485.16,2022-08-02,Smartphone
+P0767,João Silva,3651.38,2024-12-30,Smartphone
+P0768,Ana Costa123,760.27,2024-10-27,laptop
+P0769,Lucas Pereira,4956.79,2023-03-06,Acessórios
+P0770,,2534.08,2023-01-08,Acessórios
+P0771,Maria Oliveira,3145.37,2024-11-09,televisão
+P0772,Pedro Santos,1867.05,2022-03-05,Acessórios
+P0773,Maria Oliveira,4619.96,2023-09-09,televisão
+P0774,Maria Oliveira,1852.88,09/07/2024,Acessórios
+P0775,Pedro Santos,345.08,16-03-24,Fone de Ouvido
+P0776,Pedro Santos123,4186.17,2023-12-29,laptop
+P0777,Pedro Santos,,2025-01-27,televisão
+P0778,Lucas Pereira,1389.71,2024-03-11,televisão
+P0779,Lucas Pereira,3144.66,2023-04-02,Fone de Ouvido
+P0780,Maria Oliveira,2373.42,2022-06-02,televisão
+P0781,Pedro Santos123,670.29,2023-11-07,laptop
+P0782,João Silva,1002.2,2023-03-10,Acessórios
+P0783,,4575.98,2023-11-07,Acessórios
+P0784,Ana Costa,3236.73,20/10/2023,Fone de Ouvido
+P0785,Lucas Pereira,779.92,2022-06-16,Acessórios
+P0786,Maria Oliveira,2047.28,2023-01-26,Smartphone
+P0787,Joao Silva,3989.5,2022-10-27,televisão
+P0788,Lucas Pereira,2268.26,2022-10-30,Fone de Ouvido
+P0789,João Silva,3541.84,2024-06-30,Fone de Ouvido
+P0790,Pedro Santos,3259.1,2025-03-06,laptop
+P0791,Pedro Santos,1974.98,2022-04-11,laptop
+P0792,Lucas Pereira,3260.56,2022-02-07,Smartphone
+P0793,Lucas Pereira123,4745.16,2024-12-01,Smartphone
+P0794,Lucas Pereira,863.23,2023-07-25,laptop
+P0795,Lucas Pereira,3075.85,2022-05-03,Acessórios
+P0796,Maria Oliveira,744.47,2022-05-24,Smartphone
+P0797,João Silva,2280.08,2022-11-26,Smartphone
+P0798,Ana Costa,2450.4,2023-03-19,Acessórios
+P0799,Maria Oliveira,1971.83,2023-11-13,televisão
+P0800,Pedro Santos,401.1,2025-01-12,Acessórios
+P0801,João Silva,1263.67,13/02/2022,televisão
+P0802,Pedro Santos,3896.46,2023-09-02,laptop
+P0803,Maria Oliveira,4751.98,08/03/2022,televisão
+P0804,Lucas Pereira,4441.99,2022-10-06,Fone de Ouvido
+P0805,Pedro Santos123,2250.24,2023-05-25,laptop
+P0806,,637.1,2023-07-30,Fone de Ouvido
+P0807,Ana Costa123,4199.99,2024-07-09,televisão
+P0808,João Silva,4767.28,2022-12-28,laptop
+P0809,Lucas Pereira,870.71,2023-08-30,televisão
+P0810,Ana Costa,3379.12,2024-01-25,Fone de Ouvido
+P0811,Maria Oliveira,3541.58,2025-02-09,Fone de Ouvido
+P0812,Maria Oliveira,3622.28,2024-12-23,laptop
+P0813,João Silva,1881.12,2023-11-09,Acessórios
+P0814,Ana Costa,3354.34,2023-10-13,Fone de Ouvido
+P0815,João Silva123,4110.06,2024-05-18,laptop
+P0816,Lucas Pereira,398.18,2024-05-04,Smartphone
+P0817,Maria Oliveira123,150.45,2024-03-22,Acessórios
+P0818,Maria Oliveira,356.07,2022-09-02,Acessórios
+P0819,Pedro Santos,,2022-03-03,laptop
+P0820,Lucas Pereira,3194.51,2022-10-23,Acessórios
+P0821,João Silva,3326.09,01/09/2024,televisão
+P0822,Pedro Santos,3537.54,2024-04-02,laptop
+P0823,Maria Oliveira,3373.56,2022-12-11,televisão
+P0824,Joao Silva,3397.9,2024-09-21,televisão
+P0825,Ana Costa,1619.78,10/03/2022,Acessórios
+P0826,Ana Costa,3907.31,2022-11-04,laptop
+P0827,Maria Oliveira,4323.49,2022-12-02,Fone de Ouvido
+P0828,Joao Silva,1788.06,2023-08-03,Smartphone
+P0829,Maria Oliveira,1051.82,2023-09-30,laptop
+P0830,Pedro Santos,2155.24,2022-08-15,televisão
+P0831,Ana Costa,3803.61,2023-10-02,Fone de Ouvido
+P0832,João Silva123,,2022-04-01,Fone de Ouvido
+P0833,Maria Oliveira,4975.59,2022-10-30,Smartphone
+P0834,Maria Oliveira,4605.48,2022-10-08,laptop
+P0835,Ana Costa,4868.69,2023-10-10,Acessórios
+P0836,Maria Oliveira,352.51,2023-03-25,televisão
+P0837,Pedro Santos,3136.92,2023-04-30,televisão
+P0838,Maria Oliveira,2642.26,2022-01-21,televisão
+P0839,Pedro Santos,3058.45,2024-02-21,Smartphone
+P0840,Lucas Pereira123,2128.48,2023-03-19,Fone de Ouvido
+P0841,João Silva,,2023-12-26,laptop
+P0842,Lucas Pereira,1871.66,2023-10-16,Smartphone
+P0843,Maria Oliveira,4672.36,07/06/2022,Fone de Ouvido
+P0844,Ana Costa,3405.17,2024-07-09,televisão
+P0845,Maria Oliveira,4429.52,2024-01-28,Fone de Ouvido
+P0846,Lucas Pereira,1115.82,2023-10-02,televisão
+P0847,Ana Costa,3313.84,2025-01-24,laptop
+P0848,Ana Costa,1190.9,2024-05-30,Fone de Ouvido
+P0849,Maria Oliveira,961.19,2024-05-16,Smartphone
+P0850,Pedro Santos,385.5,2022-04-07,Acessórios
+P0851,Ana Costa123,1552.2,2022-06-21,Fone de Ouvido
+P0852,Pedro Santos123,3621.77,2024-04-15,Smartphone
+P0853,Maria Oliveira,1345.5,2024-01-07,laptop
+P0854,Lucas Pereira,785.06,2022-08-23,Acessórios
+P0855,Lucas Pereira,2057.13,2024-10-09,laptop
+P0856,Pedro Santos,747.32,2022-04-09,Fone de Ouvido
+P0857,,2461.18,2024-12-12,Acessórios
+P0858,João Silva,3572.85,2024-07-10,laptop
+P0859,João Silva,1319.14,2022-10-05,Acessórios
+P0860,Ana Costa123,4486.79,30/01/2025,Acessórios
+P0861,,4428.92,11-01-25,Acessórios
+P0862,Lucas Pereira,3096.9,2023-10-19,Acessórios
+P0863,Pedro Santos,1641.5,2022-06-10,Acessórios
+P0864,Lucas Pereira,4710.54,2025-01-05,televisão
+P0865,Lucas Pereira,1585.01,2023-09-12,laptop
+P0866,Maria Oliveira,1868.2,2024-07-05,Smartphone
+P0867,Pedro Santos,4311.31,2022-03-07,Smartphone
+P0868,Maria Oliveira,1625.2,2022-06-16,Acessórios
+P0869,João Silva,1046.11,2022-05-18,televisão
+P0870,Ana Costa,1902.23,2022-09-27,Acessórios
+P0871,Ana Costa,712.03,2025-01-06,Fone de Ouvido
+P0872,,2509.27,2023-01-13,laptop
+P0873,João Silva,3083.61,2022-05-27,Acessórios
+P0874,Pedro Santos,2578.69,2022-04-09,Smartphone
+P0875,Pedro Santos,3037.06,2022-02-23,Fone de Ouvido
+P0876,Lucas Pereira123,,2023-01-27,Acessórios
+P0877,Lucas Pereira,2599.79,2024-07-15,Acessórios
+P0878,Lucas Pereira,2811.72,2024-06-26,Acessórios
+P0879,Maria Oliveira,2274.74,2024-03-17,laptop
+P0880,Maria Oliveira,4174.18,2024-04-02,televisão
+P0881,João Silva,524.13,2023-01-15,Acessórios
+P0882,Pedro Santos,4714.26,2023-10-10,Smartphone
+P0883,Lucas Pereira,3360.55,2022-01-26,Fone de Ouvido
+P0884,Lucas Pereira,609.05,11/02/2024,televisão
+P0885,Ana Costa,3380.09,24/06/2023,Smartphone
+P0886,Maria Oliveira,4097.03,2025-01-21,Fone de Ouvido
+P0887,Maria Oliveira,1548.31,2024-02-14,laptop
+P0888,Lucas Pereira,4436.64,21-02-24,Smartphone
+P0889,Maria Oliveira,4743.12,2024-12-18,laptop
+P0890,Pedro Santos,3060.92,2022-06-09,televisão
+P0891,Lucas Pereira,1097.88,2023-05-29,laptop
+P0892,Maria Oliveira,2774.51,2023-06-08,laptop
+P0893,Lucas Pereira,4142.45,2024-05-01,laptop
+P0894,Maria Oliveira,2709.84,2024-05-08,laptop
+P0895,Ana Costa,1493.21,11-05-24,televisão
+P0896,Pedro Santos,3855.1,2024-03-02,laptop
+P0897,Maria Oliveira,4428.91,2024-04-12,Acessórios
+P0898,Lucas Pereira,,2023-02-09,Acessórios
+P0899,Pedro Santos,479.94,2024-08-29,televisão
+P0900,João Silva,3818.45,2022-09-29,laptop
+P0901,Ana Costa123,843431.9704813127,2022-01-26,Fone de Ouvido
+P0902,Ana Costa,4269.07,2022-09-14,Smartphone
+P0903,Maria Oliveira,1070.91,2024-07-14,laptop
+P0904,Ana Costa,3111.32,2022-03-29,Fone de Ouvido
+P0905,Ana Costa,2548.58,2023-04-03,Fone de Ouvido
+P0906,Lucas Pereira,4575.48,2024-07-10,laptop
+P0907,Lucas Pereira,2694.64,2022-02-17,Smartphone
+P0908,Ana Costa123,1333.48,2023-09-26,Fone de Ouvido
+P0909,Pedro Santos,2854.76,2023-01-19,Smartphone
+P0910,Ana Costa,4227.83,2022-03-27,laptop
+P0911,Maria Oliveira,1018.68,2024-01-13,televisão
+P0912,Maria Oliveira,1583.93,2023-09-19,laptop
+P0913,Maria Oliveira,4189.09,2024-11-15,laptop
+P0914,Lucas Pereira,4714.76,2022-01-07,laptop
+P0915,Ana Costa,1249.97,2023-02-10,Smartphone
+P0916,Lucas Pereira,3344.21,2025-02-20,televisão
+P0917,João Silva,1917.88,24/01/2025,Acessórios
+P0918,Pedro Santos,775.88,2024-08-23,Fone de Ouvido
+P0919,Maria Oliveira,3470.47,2024-12-14,televisão
+P0920,Pedro Santos,4408.06,2023-09-06,Fone de Ouvido
+P0921,João Silva,4567.3,2023-10-09,laptop
+P0922,João Silva,3777.9,2023-11-12,Smartphone
+P0923,Ana Costa,1066.38,2024-03-24,laptop
+P0924,Lucas Pereira,1176.75,2022-08-05,televisão
+P0925,Pedro Santos123,1086.49,2022-07-07,Smartphone
+P0926,Lucas Pereira,1980.2,2022-10-12,televisão
+P0927,Pedro Santos123,2459.12,2025-03-02,Fone de Ouvido
+P0928,Joao Silva,1143.03,2022-07-10,Acessórios
+P0929,Maria Oliveira,1359.98,2024-09-17,laptop
+P0930,Maria Oliveira,1701.55,2023-07-05,Acessórios
+P0931,Maria Oliveira,4406.68,2022-07-03,televisão
+P0932,Pedro Santos,3323.93,2023-11-24,televisão
+P0933,Maria Oliveira,3393.69,2024-04-11,laptop
+P0934,João Silva123,4143.08,2024-12-20,televisão
+P0935,Joao Silva,1412.47,2022-08-04,laptop
+P0936,Ana Costa123,3249.24,2022-12-27,Acessórios
+P0937,Maria Oliveira,4550.21,2023-10-22,televisão
+P0938,João Silva,4445.61,2024-03-27,laptop
+P0939,Lucas Pereira,705.16,2024-12-24,Acessórios
+P0940,João Silva,2965.0,15-04-22,Smartphone
+P0941,Pedro Santos,2767.77,2024-12-04,Acessórios
+P0942,Ana Costa,107.47,2023-10-06,Smartphone
+P0943,Pedro Santos,3160.58,2024-01-25,televisão
+P0944,Ana Costa123,936.9,2024-01-06,televisão
+P0945,Maria Oliveira,4226.28,2023-01-24,televisão
+P0946,João Silva,1818.96,2022-12-10,laptop
+P0947,Pedro Santos,3561.38,2024-10-29,televisão
+P0948,João Silva,2960.98,2025-02-25,laptop
+P0949,Lucas Pereira,199.38,2023-08-31,televisão
+P0950,Ana Costa,3476.63,2025-01-01,Acessórios
+P0951,Ana Costa,2275.02,2025-02-06,televisão
+P0952,Lucas Pereira,944.17,29/08/2022,televisão
+P0953,Joao Silva123,1804.97,2024-10-03,Acessórios
+P0954,Lucas Pereira,202.36,2023-01-20,Acessórios
+P0955,Lucas Pereira,685.13,2023-05-23,Fone de Ouvido
+P0956,,,17/05/2024,televisão
+P0957,Maria Oliveira,1213.95,2023-12-06,laptop
+P0958,,,2023-05-27,televisão
+P0959,Pedro Santos,4390.78,2022-05-16,laptop
+P0960,Maria Oliveira123,294.19,2024-01-28,laptop
+P0961,Pedro Santos,3416.99,2024-09-05,Smartphone
+P0962,Ana Costa,4261.79,2022-07-13,laptop
+P0963,Lucas Pereira,892.03,2023-08-03,laptop
+P0964,Pedro Santos,3905.45,2022-02-14,laptop
+P0965,Ana Costa,1873.55,2022-10-18,Smartphone
+P0966,João Silva,533.07,2023-11-15,Fone de Ouvido
+P0967,João Silva,3263.2,2023-05-22,Acessórios
+P0968,Ana Costa,1553.01,2023-12-05,Acessórios
+P0969,Pedro Santos,794.74,2023-09-27,Smartphone
+P0970,Joao Silva,732.89,2024-12-30,televisão
+P0971,Pedro Santos,1846.7,2023-09-08,Acessórios
+P0972,Ana Costa,733.33,2022-08-03,Acessórios
+P0973,Ana Costa,589.42,05/07/2024,Acessórios
+P0974,Ana Costa,4607.83,2022-01-25,Smartphone
+P0975,Lucas Pereira,2714.23,2023-06-22,laptop
+P0976,,992.3,21-05-24,Smartphone
+P0977,João Silva,4055.74,2024-10-24,Fone de Ouvido
+P0978,Joao Silva,841.6,2023-04-18,laptop
+P0979,Joao Silva,3631.57,2023-04-20,Acessórios
+P0980,Pedro Santos,540.43,2023-01-19,laptop
+P0981,Maria Oliveira,4177.09,2023-12-13,Smartphone
+P0982,Maria Oliveira,1118.08,2023-03-03,laptop
+P0983,João Silva,4241.08,2024-05-26,televisão
+P0984,Ana Costa,2618.7,2024-11-20,Fone de Ouvido
+P0985,Ana Costa,679.1,2022-12-16,Fone de Ouvido
+P0986,Maria Oliveira,-13.7633415248531,04/03/2023,televisão
+P0987,Ana Costa,1119.17,2023-01-06,laptop
+P0988,Pedro Santos,3783.23,2024-01-13,Acessórios
+P0989,Lucas Pereira,471.16,2024-05-22,televisão
+P0990,João Silva123,1125.64,2024-03-23,laptop
+P0991,Pedro Santos,104.73,2023-06-18,laptop
+P0992,Ana Costa,4891.08,2025-02-07,televisão
+P0993,Lucas Pereira,2675.6,2022-09-10,televisão
+P0994,Lucas Pereira,R$ 2124.81,2023-05-03,televisão
+P0995,Lucas Pereira,1438.58,2023-09-03,Smartphone
+P0996,Ana Costa123,958.09,2024-04-22,Acessórios
+P0997,Maria Oliveira,R$ 4685.99,2023-06-14,televisão
+P0998,Maria Oliveira,1278.98,2022-08-09,Smartphone
+P0999,Pedro Santos,1782.06,2022-03-29,televisão
+P1000,Lucas Pereira,4823.47,2025-01-03,Acessórios
+P0123,Maria Oliveira,4517.88,2022-05-07,Fone de Ouvido
+P0145,Lucas Pereira,4546.83,2022-12-05,laptop
+P0152,João Silva,4476.76,2022-04-17,Fone de Ouvido
+P0181,João Silva123,3601.15,2024-01-28,Fone de Ouvido
+P0641,Ana Costa,1857.32,2023-05-12,laptop
+P0357,Lucas Pereira123,4466.94,2024-12-26,Fone de Ouvido
+P0411,Ana Costa,863.06,2023-08-01,televisão
+P0249,Ana Costa,2731.08,2024-10-18,laptop
+P0316,Pedro Santos,,2023-02-04,televisão
+P0339,Pedro Santos,4465.46,2022-10-11,laptop
